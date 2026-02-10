@@ -1,4 +1,3 @@
-C:\Users\peng8.yin\Documents\Sources\wonderful_egg>git diff orgin/main fe/app.js
 diff --git a/fe/app.js b/fe/app.js
 index 2111d9a..8bb2972 100644
 --- a/fe/app.js
